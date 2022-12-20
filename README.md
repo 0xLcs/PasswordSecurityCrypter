@@ -19,7 +19,8 @@ pip install paramiko # Instalar o paramiko
 ## Como usar?
 
 A máquina que receberá o arquivo deverá estando rodando o serviço de SSH.
-No Linux: service ssh start
+
+``No Linux: service ssh start
 No Windows (Powershell): 
 Install-WindowsFeature OpenSSH-Server
 Start-Service ssh-agent
