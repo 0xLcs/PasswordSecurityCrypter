@@ -19,8 +19,8 @@ Você precisa ter instalado o módulo cryptography e o módulo paramiko instalad
 
 A máquina que receberá o arquivo deverá estando rodando o serviço de SSH.
 
-```No Linux: service ssh start```
-```No Windows (Powershell): 
+```No Linux: service ssh start
+No Windows (Powershell): 
 Install-WindowsFeature OpenSSH-Server
 Start-Service ssh-agent```
 
