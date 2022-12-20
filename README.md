@@ -25,5 +25,5 @@ Start-Service ssh-agent
 Primeiramente o arquivo do script (cryptor.py) deve estar na mesma pasta que o arquivo de senha (password.txt, o nome pode ser alterado no script caso desejar).
 Após isso, você editará o script com o número IP do host remoto, usuário e senha. Também você editar o arquivo caminho (ex: C:/Users/SEU_USER/PASSWORDS).
 
-### Importante!
+## Importante
 A pasta deve existir e o host remoto deve estar ativo , caso contrário o script irá criptografar o arquivo de password e deixar o arquivo de descriptografia na máquina local (mesma pasta dos arquivos).
