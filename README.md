@@ -12,8 +12,8 @@ Os arquivos são enviados via SSH/SFTP de forma em que os dados são enviados cr
 
 Você precisa ter instalado o módulo cryptography e o módulo paramiko instalados na sua máquina principal.
 
-```pip install cryptography # Instalar o cryptography```
-```pip install paramiko # Instalar o paramiko ```
+```pip install cryptography```
+```pip install paramiko```
 
 ## Como usar?
 
