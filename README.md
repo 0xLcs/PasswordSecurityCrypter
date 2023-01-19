@@ -1,6 +1,6 @@
 # Password Security Crypter
 
-Um script feito para você armazenar suas senhas de forma segura. (AES256)
+Um script para armazenamento de suas senhas de forma segura. (criptografia AES256)
 
 ## Descrição
 
