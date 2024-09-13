@@ -36,7 +36,7 @@ sudo service ssh start
 Install-WindowsFeature OpenSSH-Server
 Start-Service ssh-agent
 ```
-Coloque o script (`cryptor.py`) na mesma pasta que o arquivo de senhas (`password.txt`). Se desejar, você pode alterar o nome deste arquivo no próprio script.Em seguida, edite o script para incluir o endereço IP da máquina remota, o nome de usuário e a senha de acesso. Também é necessário configurar o caminho de destino do arquivo na máquina remota (ex: `C:/Users/SEU_USER/PASSWORDS`).
+Coloque o script (`cryptor.py`) na mesma pasta que o arquivo de senhas (`password.txt`). Se desejar, você pode alterar o nome deste arquivo no próprio script. Em seguida, edite o script para incluir o endereço IP da máquina remota, o nome de usuário e a senha de acesso. Também é necessário configurar o caminho de destino do arquivo na máquina remota (ex: `C:/Users/SEU_USER/PASSWORDS`).
 ## Importante 
 
 - A pasta de destino deve existir na máquina remota, e o host deve estar ativo no momento da execução do script.
